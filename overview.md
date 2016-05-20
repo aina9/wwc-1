@@ -14,11 +14,11 @@ Welcome to *Working with Corpora*
 
 ## Links
 
-REPOSITORY: https://www.github.com/wowico/wwc
-CLOUD: https://resbaz.cloud.edu.au/
-BLOG: http://wowico.github.io/wwc/
+* `REPOSITORY`: https://www.github.com/wowico/wwc
+* `CLOUD`: https://resbaz.cloud.edu.au/
+* `BLOG`: http://wowico.github.io/wwc/
 
-## Cloud passwords
+## Other
 
-saarbrücken-1: 4L5-7A6-QAY-CJM 
-saarbrücken-2: HBE-WWJ-2C4-Q8L 
+* `4L5-7A6-QAY-CJM`
+* `HBE-WWJ-2C4-Q8L` 
